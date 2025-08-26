@@ -14,7 +14,7 @@
     "next": "15.3.4"
     "d3": "^7.9.0",
   "lucide-react": "^0.411.0",
-  "@monaco-editor/react": "^4.5.0",
+  "@monaco-editor/react": "^4.5.0"
   },
   "devDependencies": {
     "typescript": "^5",
